@@ -1,0 +1,4 @@
+25.
+- Several apps per project
+> admin.py => show stuff in admin area
+> apps.py => class of the config. Goes in settings file.
