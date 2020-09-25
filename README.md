@@ -1,3 +1,5 @@
 # Python Django Dev To Deployment
 (COURSE FINISHED) 
-This is a repo for Python Django Dev To Deployment: https://www.udemy.com/course/python-django-dev-to-deployment/
+
+Repo for Udemy course: Python Django Dev To Deployment
+https://www.udemy.com/course/python-django-dev-to-deployment
